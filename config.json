@@ -1,0 +1,9 @@
+{
+    "port": 8100,
+    "passphrase": "7OvtImYIcYfcK6oqNN45ep-Nq7oEoNL4",
+    "guild": "538513940196491266",
+    "bots": [{
+        "channel": "chat-server",
+        "token": "NTQwNzA3NjQ1NDg1NjEzMDU2.DzU2jg.g1M2KLs-2Jv_kVjTMjaQRwctXbA"
+    }]
+}
